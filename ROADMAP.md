@@ -5,7 +5,7 @@ _**THIS IS A WORK IN PROGRESS** We are actively working on this Roadmap. It is s
 
 ## The Path to the Interplanetary Test Lab
 
-* **Step 1.** Determine metrics to use.
+* **Step 1.** Determine the appropriate metrics to use.
 * **Step 2.** ??
 * **Step 3.** ??
 * **Step 4.** ??
