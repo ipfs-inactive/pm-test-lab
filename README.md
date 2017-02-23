@@ -7,6 +7,8 @@ See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a
 ## The Sprint
 [The Sprint: Week 9, Feb 26th](https://github.com/ipfs/pm/issues/354)
 
+[View the waffle cards here](https://github.com/ipfs/test-lab)
+
 ## Relevant Links
 1. [whyrusleeping: Real world IPFS scenarios we want to test](https://github.com/ipfs/notes/issues/211)
 2. [jbenet: Leveling up testing infrastructure](https://github.com/ipfs/notes/issues/202)
