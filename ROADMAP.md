@@ -5,5 +5,6 @@ _**THIS IS A WORK IN PROGRESS** We are actively working on this Roadmap. It is s
 
 ## The Path to the InterPlanetary Lab
 
-* **Step 1.** Get CI running smoothly with Jenkins
+* **Step 1.** ??
+* **Step 2.** ??
 * **Step 2.** ??
