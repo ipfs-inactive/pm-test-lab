@@ -1,5 +1,5 @@
-# Interplanetary Test Lab
-Tracking the path to building the Interplanetary Test Lab
+# InterPlanetary Lab
+Tracking the path to building the InterPlanetary Lab
 
 ## Objectives
 See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
@@ -12,4 +12,4 @@ See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a
 ## Relevant Links
 1. [whyrusleeping: Real world IPFS scenarios we want to test](https://github.com/ipfs/notes/issues/211)
 2. [jbenet: Leveling up testing infrastructure](https://github.com/ipfs/notes/issues/202)
-3. [whyrusleeping: Interplanetary Test Lab](https://github.com/ipfs/notes/issues/191)
+3. [whyrusleeping: InterPlanetary Lab](https://github.com/ipfs/notes/issues/191)
