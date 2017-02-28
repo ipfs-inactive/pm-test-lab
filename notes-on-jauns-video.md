@@ -48,7 +48,7 @@ The goal will be to ship a VM that can have one or more containers.
 
 We may have some interesting networking challenges. Allowing nodes to connect through NAT as an example.
 
-Requirments:
+##Requirments:
 1. Must be able to run abitrary programs.
 2. Must have a container engine.
 3. Must be a VPN
