@@ -8,7 +8,7 @@ Product requirements are in development at this time, see [Notes on Juans Video]
 See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
 
 ## The 2/27/2017 Sprint
-- [Sprint Objectives]()
+- [Sprint Objectives](https://github.com/ipfs/test-lab/blob/master/sprint-objectives-2-27-2017.md)
 - [The Sprint: Week 9, Feb 26th](https://github.com/ipfs/pm/issues/354)
 - [View the waffle cards here](https://waffle.io/ipfs/test-lab)
 
