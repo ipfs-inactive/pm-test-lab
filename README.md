@@ -13,3 +13,4 @@ See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a
 1. [whyrusleeping: Real world IPFS scenarios we want to test](https://github.com/ipfs/notes/issues/211)
 2. [jbenet: Leveling up testing infrastructure](https://github.com/ipfs/notes/issues/202)
 3. [whyrusleeping: InterPlanetary Lab](https://github.com/ipfs/notes/issues/191)
+4. [Juan Bennet's Product Design Video](https://www.youtube.com/watch?v=giQfhypeo7g)
