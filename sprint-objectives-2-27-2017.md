@@ -1,5 +1,8 @@
 #IPTL Sprint Objectives for the 2/27/2017 sprint
 
+#HackMD notes 2/28/2017:
+https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
+
 #Sprint members
 
 
