@@ -7,10 +7,10 @@ Product requirements are in development at this time, see [Notes on Juans Video]
 ## Objectives
 See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
 
-## The Sprint
-[The Sprint: Week 9, Feb 26th](https://github.com/ipfs/pm/issues/354)
-
-[View the waffle cards here](https://waffle.io/ipfs/test-lab)
+## The 2/27/2017 Sprint
+- [Sprint Objectives]()
+- [The Sprint: Week 9, Feb 26th](https://github.com/ipfs/pm/issues/354)
+- [View the waffle cards here](https://waffle.io/ipfs/test-lab)
 
 ## Relevant Links
 1. [whyrusleeping: Real world IPFS scenarios we want to test](https://github.com/ipfs/notes/issues/211)
