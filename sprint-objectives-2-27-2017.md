@@ -34,3 +34,10 @@
 - Choose & Implement network test config DSL
 - CLI: Dev should be able to start a job from CLI with 1 command
 - WEB: Dev should be able to start a job from WEB with 1 pageload + 1 click
+
+##Documentation
+
+- Create a guide that lets someone deploy the Kubernetes master with out config. (ideally this is very short)
+- Create a guide that lets someone setup a lablet (VM and native, covered separately)
+- Create a guide for issuing jobs to the lab, and other random things (CLIs).
+- Create a guide for writing good tests for the lab
