@@ -12,21 +12,21 @@ We are building this so we can generate extensive metrics around certain work lo
 ## The Core Components
 
 1. The Orchestrator
-  a. The orchestrator is the lab manager.
-  b. We may be able to leverage Kubernetes to perform the heavy lifting
-  c. The Orchestrator will push jobs to the runners.
-  d. The orchestrator will ship arbitrary processes to the runners.
-  e. Kubernetes has cubelets.
+  - The orchestrator is the lab manager.
+  - We may be able to leverage Kubernetes to perform the heavy lifting
+  - The Orchestrator will push jobs to the runners.
+  - The orchestrator will ship arbitrary processes to the runners.
+  - Kubernetes has cubelets.
 2. The runners.
-  a. The units that actually run the processes.
-  b. Could be implemented as Kubernetes containers.
-  c. Runners may run on the cloud and also on our own hardware.
-  d. It's important to test on our own harder/network, this is what made Planet Lab successful.
-  e. Runners accept jobs from the Orchestrator
-  f. Runners must run arbitrary processes.
-  g. We need to consider using VM's here.  VM's should make it much easier for the end user.
-  h. The VM could automate running the process of the Kubernetes container.
-  i. So the runners are VM's, let's call them lablets.
+  - The units that actually run the processes.
+  - Could be implemented as Kubernetes containers.
+  - Runners may run on the cloud and also on our own hardware.
+  - It's important to test on our own harder/network, this is what made Planet Lab successful.
+  - Runners accept jobs from the Orchestrator
+  - Runners must run arbitrary processes.
+  - We need to consider using VM's here.  VM's should make it much easier for the end user.
+  - The VM could automate running the process of the Kubernetes container.
+  - So the runners are VM's, let's call them lablets.
 
 ## The Orchestrator
 A Link to Juan Bennet's Awesome Orchestrator page goes hear.
@@ -70,24 +70,24 @@ Requirments:
 
 ## DevOps
 1. Setup the orchestrator/lab
-  a. Should be repeatable
-  b. Needs to be automated as much as possible
-  c. Need to be well documented
-  e. Could be provissioned on the cloud
-  f. Should be up 24/7
-  g. Should come with a bundle of stuff to run
-  h. This may be Kubernetes by itself or it may be something added to Kubernetes
-  i. Should be able to start it off and not have to worry about it.
+  - Should be repeatable
+  - Needs to be automated as much as possible
+  - Need to be well documented
+  - Could be provissioned on the cloud
+  - Should be up 24/7
+  - Should come with a bundle of stuff to run
+  - This may be Kubernetes by itself or it may be something added to Kubernetes
+  - Should be able to start it off and not have to worry about it.
 2. Running (after setup)
-  a. Automate as much as possible
-  b. Should require minimal maintenace
-  c. Need to watch the complexity of this, if it gets to complex we may need to consider other avenues.
-  d. A dashboard can be considered that can be used to monitor statistics.
-  e. Should work similar to Travis.
+  - Automate as much as possible
+  - Should require minimal maintenace
+  - Need to watch the complexity of this, if it gets to complex we may need to consider other avenues.
+  - A dashboard can be considered that can be used to monitor statistics.
+  - Should work similar to Travis.
 3. Reporting Errors
-  a. When something happens the lab must go offline
-  b. People need to know when they can and cannot use it.
-  c. Need to have a status page.
+  - When something happens the lab must go offline
+  - People need to know when they can and cannot use it.
+  - Need to have a status page.
 
 ##The Minors (the people running the lablets)
 Phase 1:
