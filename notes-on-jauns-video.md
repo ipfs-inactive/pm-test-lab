@@ -90,7 +90,8 @@ Requirments:
   - Need to have a status page.
 
 ##The Minors (the people running the lablets)
-Phase 1:
+
+##Phase 1:
 1. Minors will start by preparing their hardware.
 2. This can be downloading some software that we give them.
 3. This should be as simple as possible.
@@ -100,7 +101,7 @@ Phase 1:
 7. Need to target one architecture with a document that explains everything so that users can work their way through it. should be exhaustive.
 8. Needt to generate a FAQ
 
-Phase 2:
+##Phase 2:
 1. Need the perfect installer to make it as easy as possible.
 2. Users should be able to get up and running quickly on their own.
 3. It would be useful for the user to be able to allocate resources
