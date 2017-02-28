@@ -1,5 +1,8 @@
 # InterPlanetary Lab
-Tracking the path to building the InterPlanetary Lab
+Building the InterPlanetary Lab
+
+# Product Design
+See the [Product Design]() document for full details.
 
 ## Objectives
 See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
