@@ -1,3 +1,5 @@
+[Juan Video](https://www.youtube.com/watch?v=giQfhypeo7g)
+
 # InterPlanetary Lab (IPTL)
 Product Requirements (Architecture and Artifacts - Version 1.0)
 
@@ -87,11 +89,24 @@ Requirments:
   b. People need to know when they can and cannot use it.
   c. Need to have a status page.
 
-##The Minors
+##The Minors (the people running the lablets)
+Phase 1:
 1. Minors will start by preparing their hardware.
 2. This can be downloading some software that we give them.
 3. This should be as simple as possible.
 4. In the beginning we will certainly fall short on this objective.
 5. Need a document which can go with the software so the minors can figure it out on their own.
-6. Need the perfect installer or provide a document
-7. In the beginning
+6. Things will be hard on users during this phase.
+7. Need to target one architecture with a document that explains everything so that users can work their way through it. should be exhaustive.
+8. Needt to generate a FAQ
+
+Phase 2:
+1. Need the perfect installer to make it as easy as possible.
+2. Users should be able to get up and running quickly on their own.
+3. It would be useful for the user to be able to allocate resources
+4. Should be able to click a single button to go online or to start.
+5. Turning the program on should take vary little work. 30 seconds tops
+6. We could use VM limits at this point to restrict resources.
+7. The constraints can be really useful to us as well.
+8. The user should be able to check out a dash board where they can see what's going on.
+9. The user should be able to stop the process very easily.
