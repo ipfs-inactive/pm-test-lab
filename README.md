@@ -12,6 +12,12 @@ See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a
 - [The Sprint: Week 9, Feb 26th](https://github.com/ipfs/pm/issues/354)
 - [View the waffle cards here](https://waffle.io/ipfs/test-lab)
 
+## IPTL How to Documents
+- [Deploying the Orchestrator](https://github.com/ipfs/test-lab/blob/master/deploying-the-orchestrator.md)
+- [Setting up a Lablet](setting-up-lablet.md)
+- [Writing jobs]()
+- [Issuing Jobs]()
+
 ## Relevant Links
 1. [whyrusleeping: Real world IPFS scenarios we want to test](https://github.com/ipfs/notes/issues/211)
 2. [jbenet: Leveling up testing infrastructure](https://github.com/ipfs/notes/issues/202)
