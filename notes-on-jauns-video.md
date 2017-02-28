@@ -1,4 +1,4 @@
-[Juan Video](https://www.youtube.com/watch?v=giQfhypeo7g)
+These are some notes taken from [Juan's Video](https://www.youtube.com/watch?v=giQfhypeo7g) which he recorded on 2/28/2017.
 
 # InterPlanetary Lab (IPTL)
 Product Requirements (Architecture and Artifacts - Version 1.0)
