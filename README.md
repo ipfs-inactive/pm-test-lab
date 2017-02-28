@@ -1,4 +1,4 @@
-# InterPlanetary Lab (IPLT)
+# InterPlanetary Lab (IPTL)
 Building the InterPlanetary Lab
 
 # Product Requirements
