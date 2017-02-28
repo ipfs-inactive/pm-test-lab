@@ -2,7 +2,7 @@
 Building the InterPlanetary Lab
 
 # Product Requirements
-Product requirements are in development at this time, see [Notes on Juans Video](https://github.com/ipfs/test-lab/blob/master/PRODUCTREQUIREMENTS.md) document for more details
+Product requirements are in development at this time, see [Notes on Juans Video](https://github.com/ipfs/test-lab/blob/master/notes-on-jauns-video.md) document for more details
 
 ## Objectives
 See the [ROADMAP](https://github.com/ipfs/test-lab/blob/master/ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
