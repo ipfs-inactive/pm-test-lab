@@ -4,13 +4,13 @@
 https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 
 #Sprint members
-@sidharder
-@lgierth
-@jonnycrunch
-@FrankPetrelli
-@hsanjuan
-@jbenet
-@dgrisham
+- @sidharder
+- @lgierth
+- @jonnycrunch
+- @FrankPetrelli
+- @hsanjuan
+- @jbenet
+- @dgrisham
 
 #Orchestration of processes
 
