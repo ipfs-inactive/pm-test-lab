@@ -14,13 +14,13 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 
 #Orchestration of processes
 
-- Setup & Deploy a Kubernetes master to orchestrate the test lab.
-- Setup & Deploy 2 Kubelets on the cloud that speak to the running master.
-- Setup & Deploy 2 Kubelets on our own machines that speak to the running master.
+- Setup & Deploy a Kubernetes master to orchestrate the test lab. (@FrankPetrelli)
+- Setup & Deploy 2 Kubelets on the cloud that speak to the running master. (@FrankPetrelli)
+- Setup & Deploy 2 Kubelets on our own machines that speak to the running master. (@FrankPetrelli)
 - Create a lablet VM we can use to image cloud machines
-- Create a lablet VM we can use to run in our machines (ideally is same VM)
-- Test: issue a test to all the kubelets in the network
-- example: downloads go-ipfs, runs it, adds something, and then counts the peers.
+- Create a lablet VM we can use to run in our machines (ideally is same VM) (@FrankPetrelli)
+- Test: issue a test to all the kubelets in the network (record a short video) (@FrankPetrelli)
+  - example: downloads go-ipfs, runs it, adds something, and then counts the peers.
 
 ##Experiment with testing
 
@@ -46,7 +46,7 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 
 ##Documentation
 
-- Create a guide that lets someone deploy the Kubernetes master with out config. (ideally this is very short)
-- Create a guide that lets someone setup a lablet (VM and native, covered separately)
+- Create a guide that lets someone deploy the Kubernetes master with out config. (ideally this is very short) (@FrankPetrelli)
+- Create a guide that lets someone setup a lablet (VM and native, covered separately) (@FrankPetrelli)
 - Create a guide for issuing jobs to the lab, and other random things (CLIs).
 - Create a guide for writing good tests for the lab
