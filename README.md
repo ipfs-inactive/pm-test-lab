@@ -1,5 +1,5 @@
-# InterPlanetary Lab (IPTL)
-Building the InterPlanetary Lab
+# InterPlanetary Test Lab (IPTL)
+Building the InterPlanetary Test Lab
 
 # Product Requirements
 Product requirements are in development at this time, see [Notes on Juans Video](https://github.com/ipfs/test-lab/blob/master/notes-on-jauns-video.md) document for more details

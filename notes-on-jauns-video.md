@@ -113,3 +113,12 @@ We may have some interesting networking challenges. Allowing nodes to connect th
 7. The constraints can be really useful to us as well.
 8. The user should be able to check out a dash board where they can see what's going on.
 9. The user should be able to stop the process very easily.
+10. There should be a way for either graceful shutdown or immediate shutdown.
+11. Users should be able to inspect the history of jobs after shutdown occurs.
+12. It may be easier to start with a command line hear, maybe an API.
+
+#The Devlopers (The people writing the tests)
+1. Tests need to be able to run in the containment or abstraction of the lab, this will probably be a docker container.
+2. Can use any binaries that they want, should be able to test it locally.
+3. You can use multiple docker containers, a complicated task may involve multiple containers.
+4. The container images will form a bundle.
