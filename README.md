@@ -16,10 +16,10 @@ See the [ROADMAP](ROADMAP.md) for a breakdown of the step we will be taking to g
 
 ## IPTL How to Documents
 
-- [Deploying the Orchestrator](deploying-the-orchestrator.md)
-- [Setting up a Lablet](setting-up-lablet.md)
-- [Writing jobs](writing-jobs.md)
-- [Issuing Jobs](issuing-jobs.md)
+- [Deploying the Orchestrator](/guides/deploying-the-orchestrator.md)
+- [Setting up a Lablet](/guides/setting-up-lablet.md)
+- [Writing jobs](/guides/writing-jobs.md)
+- [Issuing Jobs](/guides/issuing-jobs.md)
 
 ## Relevant Links
 
