@@ -1,9 +1,10 @@
-#IPTL Sprint Objectives for the 2/27/2017 sprint
+# IPTL Sprint Objectives for the 2/27/2017 sprint
 
-#HackMD notes 2/28/2017:
+# HackMD notes 2/28/2017:
+
 https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 
-#Sprint members
+# Sprint members
 - @sidharder
 - @lgierth
 - @jonnycrunch
@@ -12,7 +13,7 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 - @jbenet
 - @dgrisham
 
-#Orchestration of processes
+# Orchestration of processes
 
 - Setup & Deploy a Kubernetes master to orchestrate the test lab. (@FrankPetrelli)
 - Setup & Deploy 2 Kubelets on the cloud that speak to the running master. (@FrankPetrelli)
@@ -22,7 +23,7 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 - Test: issue a test to all the kubelets in the network (record a short video) (@FrankPetrelli)
   - example: downloads go-ipfs, runs it, adds something, and then counts the peers.
 
-##Experiment with testing
+## Experiment with testing
 
 - Create 5 different network tests:
 - all go-ipfs, add + cat 1000 files
@@ -34,7 +35,7 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 - Make some test that produces static grafana output
 - Make some test that produces some simple trace, gather it afterward from all the nodes
 
-##Testing Setup -- Job bundle and Results bundle
+## Testing Setup -- Job bundle and Results bundle
 
 - Spec out a format for the "job bundle"
 - Spec out a format for the "results bundle"
@@ -44,7 +45,7 @@ https://hackmd.io/KwBgjGBsCcCG0FoCm8BMCAsAOD6BGAxgMxgKwbTTADsIAJtdakUA
 - CLI: Dev should be able to start a job from CLI with 1 command
 - WEB: Dev should be able to start a job from WEB with 1 pageload + 1 click
 
-##Documentation
+## Documentation
 
 - Create a guide that lets someone deploy the Kubernetes master with out config. (ideally this is very short) (@FrankPetrelli)
 - Create a guide that lets someone setup a lablet (VM and native, covered separately) (@FrankPetrelli)
