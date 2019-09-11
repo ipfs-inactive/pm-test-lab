@@ -1,12 +1,22 @@
-# InterPlanetary Test Lab (IPTL)
-Building the InterPlanetary Test Lab
+## About this repo 
 
-# Product Requirements
+This is a repo created in 2017 for the sprint on InterPlanetary Test Lab (IPTL).  
+It was a 2 weeks sprint, lot's of docs were generated, left here for archival purposes.
+
+## See also 
+
+* [`ipfs/iptb`](https://github.com/ipfs/iptb) a tool @whyrusleeping made in 2015 to test IPFS
+* `iptl` / `pm-test-lab` - InterPlanetary Test Lab (this repo)
+* [`libp2p/testlab`](https://github.com/libp2p/testlab) is the new endeavour by the libp2p team to create the actual test lab
+* [`ipfs/testground`](https://github.com/ipfs/testground) is the 2019+ development of the original vision by with a large upgrade to its design as described at [Test Infrastructure V1](https://docs.google.com/document/d/1jToUP0E0of0WSnLv7gdIEXXQgfscIaxq_aEbwCMPN28/edit#) 
+
+----
+
+#  InterPlanetary Test Lab (IPTL) 
+
+## Product Requirements
 Product requirements are in development at this time, see [Notes on Juans Video](/notes/sprint-objectives-2-27-2017.md) document for more details
 
-## Objectives
-
-See the [ROADMAP](ROADMAP.md) for a breakdown of the step we will be taking to get the Interplanetary Test Lab up and running.
 
 ## The 2/27/2017 Sprint
 
