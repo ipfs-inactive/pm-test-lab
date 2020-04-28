@@ -1,3 +1,6 @@
+# This repo has been archived!
+This repo has been deprecated. Check https://github.com/ipfs/testground/ for the latest developments.
+
 # InterPlanetary Test Lab (IPTL)
 Building the InterPlanetary Test Lab
 
